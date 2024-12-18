@@ -1,0 +1,1 @@
+1.Event.txt，PrivateTrainer.txt不可删除，其余可以，且应该通过这两个文件进行更新内容
